@@ -11,8 +11,8 @@
 **Officers**:
 
 1. Death
-2. Trueski
-3. Valerie
+2. Valerie
+3. [Open]
 
 **Members**:
 
@@ -21,6 +21,7 @@
 3. Bunyi
 4. Chip
 5. Krum
-6. Glitch
-7. Ramona
+6. Toast
+7. Spex
+8. bahtmodo
 
